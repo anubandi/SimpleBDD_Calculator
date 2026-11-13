@@ -62,4 +62,7 @@ To open the Allure report after a test run:
 mvn allure:serve
 ```
 
+### Allure
+![Allure report](reportSnapshot/allure-report.png)
+
 All generated folders are ignored by Git.
