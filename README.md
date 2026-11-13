@@ -1,4 +1,5 @@
 # Simple BDD Calculator
+![Cucumber Tests](https://github.com/anubandi/SimpleBDD_Calculator/actions/workflows/tests.yml/badge.svg)
 
 A small Cucumber BDD project in Java, built to practise BDD basics: feature files, step definitions, hooks, tags, data tables, logging and reporting.
 
